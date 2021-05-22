@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome on my GitHub Profile
+
+I am a student in the Master Programme Computational Science and Engineering at TU Munich and a working student in Machine Learning & Simulation at Siemens Technology.
+
+Ever since my Bachelor education started I have been passionate higher (applied) mathematics, numerics and physically modelling. You can find all of this in the field of Simulation as well as in Machine Learning. I am interested in the intersection of the two.
+
+On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
+
+On this GitHub profile you find hobby projects and submission for uni courses.
 
 <!--
 **Ceyron/Ceyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
