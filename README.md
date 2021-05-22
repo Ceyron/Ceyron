@@ -2,7 +2,7 @@
 
 I am a student in the Master Programme Computational Science and Engineering at TU Munich and a working student in Machine Learning & Simulation at Siemens Technology.
 
-Ever since my Bachelor education started I have been passionate higher (applied) mathematics, numerics and physically modelling. You can find all of this in the field of Simulation as well as in Machine Learning. I am interested in the intersection of the two.
+Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation as well as in Machine Learning. I am interested in the intersection of the two.
 
 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
 
