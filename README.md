@@ -2,11 +2,11 @@
 
 I am a student in the Master Programme Computational Science and Engineering at TU Munich and a working student in Machine Learning & Simulation at Siemens Technology.
 
-Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation as well as in Machine Learning. I am interested in the intersection of the two.
+Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation as well as in Machine Learning. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning.
 
 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
 
-On this GitHub profile you find hobby projects and submission for uni courses.
+On this GitHub profile you find hobby projects and submissions for uni courses.
 
 <!--
 **Ceyron/Ceyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
