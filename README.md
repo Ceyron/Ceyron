@@ -1,6 +1,6 @@
-### Welcome on my GitHub Profile
+### Welcome to my GitHub Profile
 
-I am a student in the Master Programme Computational Science and Engineering at TU Munich and a working student in Machine Learning & Simulation at Siemens Technology.
+Hi, I'm Felix. I am a student in the Master Programme Computational Science and Engineering at TU Munich and a working student in Machine Learning & Simulation at Siemens Technology.
 
 Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation as well as in Machine Learning. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning.
 
