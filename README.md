@@ -15,9 +15,12 @@ On this GitHub profile you find hobby projects and submissions for uni courses a
 * Streamlit
 * Flask
 * NumPy/SciPy/Matplotlib
+* Dask
 * The C++ Standard Library
 * The Eigen Linear Algebra Library in C++
 * OpenFoam
+* OpenMP
+* MPI
 
 🖥️ My operating system of choice is Arch Linux, but I am also proficient with Ubuntu/Debian and of course Windows.
 
