@@ -22,3 +22,7 @@ I love coding in **Python**, **Julia** and **C++**. Some technologies I like to 
 👉 Follow me on [Twitter](https://twitter.com/felix_m_koehler) or [LinkedIn](www.linkedin.com/in/felix-koehler).
 
 💬 My favorite quote: "The best time to plant a tree is 20 years ago. The second best time is now."
+
+💵 These are organizations I donate to yearly:
+* [NumFOCUS](https://numfocus.org/donate): This Non-Profit supports many open source projects like Scikit-learn, NumPy, Scipy, Julia etc.
+* [Wikipedia](https://donate.wikimedia.org): Wikipedia is amazing. Where would I be without it.
