@@ -8,7 +8,7 @@ Ever since my Bachelor education started I have been passionate about higher (ap
 
 On this GitHub profile you find hobby projects and submissions for uni courses as well as all the material of my YouTube channel (source code and handwritten notes).
 
-I love coding in **Python**, **Julia** and **C++**. Some technologies I like to use:
+🧑‍💻 I love coding in **Python**, **Julia** and **C++**. Some technologies I like to use:
 * JAX
 * Scikit-Learn
 * TensorFlow (Probability)
@@ -18,6 +18,8 @@ I love coding in **Python**, **Julia** and **C++**. Some technologies I like to 
 * The C++ Standard Library
 * The Eigen Linear Algebra Library in C++
 * OpenFoam
+
+🖥️ My operating system of choice is Arch Linux, but I am also proficient with Ubuntu/Debian and of course Windows.
 
 👉 Follow me on [Twitter](https://twitter.com/felix_m_koehler) or [LinkedIn](www.linkedin.com/in/felix-koehler).
 
