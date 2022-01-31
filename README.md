@@ -24,6 +24,10 @@ On this GitHub profile you find hobby projects and submissions for uni courses a
 
 🖥️ My operating system of choice is Arch Linux, but I am also proficient with Ubuntu/Debian and of course Windows.
 
+📚 A list of my publications:
+* [Combination of Stress Sensitivities and the Heuristic Based Topology
+Optimization with Integrated Casting Simulation in LEOPARD|topo](https://github.com/Ceyron/Ceyron/files/7971570/adjoint_sensitivities_topology_optimization.pdf)
+
 👉 Follow me on [Twitter](https://twitter.com/felix_m_koehler) or [LinkedIn](www.linkedin.com/in/felix-koehler).
 
 💬 My favorite quote: "The best time to plant a tree is 20 years ago. The second best time is now."
