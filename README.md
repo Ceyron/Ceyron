@@ -1,12 +1,8 @@
 ### Hi, I'm Felix 👋
 
-I am a student in the Master Program Computational Science and Engineering at TU Munich and a working student in Machine Learning & Simulation at Siemens Technology.
-
-Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning.
+Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am an incoming PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/).
 
 📺 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
-
-On this GitHub profile you find hobby projects and submissions for uni courses as well as all the material of my YouTube channel (source code and handwritten notes).
 
 🧑‍💻 I love coding in **Python**, **Julia** and **C++**. Some technologies I like to use:
 * JAX
