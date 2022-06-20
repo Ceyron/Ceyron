@@ -25,7 +25,7 @@ Ever since my Bachelor education started I have been passionate about higher (ap
 * [Combination of Stress Sensitivities and the Heuristic Based Topology
 Optimization with Integrated Casting Simulation in LEOPARD|topo](https://github.com/Ceyron/Ceyron/files/7971570/adjoint_sensitivities_topology_optimization.pdf)
 * [Parallel FVM Shallow Water Equations Solver in Julia](https://github.com/Ceyron/Ceyron/files/8056091/shallow_water_equations_julia.pdf)
-* [Variational Auto-Encoder with a VAMP-Prior](https://github.com/Ceyron/Ceyron/files/8056094/advanced_machine_learning_project_work.pdf)
+* [Variational Auto-Encoder with a VAMP-Prior [re-implementation and discussion]](https://github.com/Ceyron/Ceyron/files/8056094/advanced_machine_learning_project_work.pdf)
 
 👉 Follow me on [Twitter](https://twitter.com/felix_m_koehler) or [LinkedIn](www.linkedin.com/in/felix-koehler).
 
