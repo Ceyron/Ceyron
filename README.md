@@ -5,18 +5,8 @@ Ever since my Bachelor education started I have been passionate about higher (ap
 📺 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
 
 🧑‍💻 I love coding in **Python**, **Julia** and **C++**. Some technologies I like to use:
-* JAX
-* Scikit-Learn
-* TensorFlow (Probability)
-* Streamlit
-* Flask
-* NumPy/SciPy/Matplotlib
-* Dask
-* The C++ Standard Library
-* The Eigen Linear Algebra Library in C++
-* OpenFoam
-* OpenMP
-* MPI
+
+JAX • Scikit-Learn • TensorFlow (Probability) • Streamlit • Flask • NumPy/SciPy/Matplotlib • Dask • The C++ Standard Library • The Eigen Linear Algebra • Library in C++ • OpenFoam • OpenMP • MPI
 
 📚 A list of my publications:
 * [My Bachelor Thesis](https://github.com/Ceyron/Ceyron/files/8056086/bachelor_thesis.pdf)
