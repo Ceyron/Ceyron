@@ -1,6 +1,6 @@
 ### Hi, I'm Felix 👋
 
-Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am an incoming PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/).
+Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am a PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/) at TU Munich.
 
 📺 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
 
@@ -18,14 +18,12 @@ Ever since my Bachelor education started I have been passionate about higher (ap
 * OpenMP
 * MPI
 
-🖥️ My operating system of choice is Arch Linux, but I am also proficient with Ubuntu/Debian and of course Windows.
-
 📚 A list of my publications:
 * [My Bachelor Thesis](https://github.com/Ceyron/Ceyron/files/8056086/bachelor_thesis.pdf)
 * [Combination of Stress Sensitivities and the Heuristic Based Topology
-Optimization with Integrated Casting Simulation in LEOPARD|topo](https://github.com/Ceyron/Ceyron/files/7971570/adjoint_sensitivities_topology_optimization.pdf)
-* [Parallel FVM Shallow Water Equations Solver in Julia](https://github.com/Ceyron/Ceyron/files/8056091/shallow_water_equations_julia.pdf)
-* [Variational Auto-Encoder with a VAMP-Prior [re-implementation and discussion]](https://github.com/Ceyron/Ceyron/files/8056094/advanced_machine_learning_project_work.pdf)
+Optimization with Integrated Casting Simulation in LEOPARD|topo (conference paper)](https://github.com/Ceyron/Ceyron/files/7971570/adjoint_sensitivities_topology_optimization.pdf)
+* [Parallel FVM Shallow Water Equations Solver in Julia (Master studies seminar paper)](https://github.com/Ceyron/Ceyron/files/8056091/shallow_water_equations_julia.pdf)
+* [Variational Auto-Encoder with a VAMP-Prior [re-implementation and discussion] (Master studies project paper)](https://github.com/Ceyron/Ceyron/files/8056094/advanced_machine_learning_project_work.pdf)
 
 👉 Follow me on [Twitter](https://twitter.com/felix_m_koehler) or [LinkedIn](www.linkedin.com/in/felix-koehler).
 
