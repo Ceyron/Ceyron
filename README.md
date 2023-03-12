@@ -2,7 +2,7 @@
 
 Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am a PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/) at TU Munich.
 
-👉 Check out [my website](https://ceyron.github.io/)
+👉 Check out [my website](https://ceyron.github.io/).
 
 📺 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
 
