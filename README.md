@@ -1,6 +1,6 @@
 ### Hi, I'm Felix 👋
 
-Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am a PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/) at TU Munich.
+Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am a PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/) at TU Munich, funded by the [Munich Center of Machine Learning (MCML)](https://mcml.ai/).
 
 👉 Check out [my website](https://fkoehler.site).
 
