@@ -1,10 +1,10 @@
 ### Hi, I'm Felix 👋
 
-Ever since my Bachelor education started I have been passionate about higher (applied) mathematics, numerics and physical modelling. You can find all of this in the field of Simulation 🌊 as well as in Machine Learning 🤖. I am interested in the intersection of the two. This new interdisciplinary field is also sometimes called Scientific Machine Learning. 🎓 I am a PhD student in the group of [Prof. Thuerey](https://ge.in.tum.de/) at TU Munich, funded by the [Munich Center of Machine Learning (MCML)](https://mcml.ai/).
+I am Phd student in physics-based deep learning in the group of [Prof. Thuerey](https://ge.in.tum.de/) at Technical University of Munich, funded by the [Munich Center of Machine Learning (MCML)](https://mcml.ai/). My interests are differentiable numerical simulators, machine learning, automatic differentiation, and optimization theory. 
 
 👉 Check out [my website](https://fkoehler.site).
 
-📺 On my YouTube channel I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
+📺 On my YouTube channel, I create in-depth explanatory videos on [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q).
 
 🧑‍💻 I love coding in **Python**, **Julia** and **C++**. Some technologies I like to use:
 
