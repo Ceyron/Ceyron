@@ -23,6 +23,8 @@ Optimization with Integrated Casting Simulation in LEOPARD|topo (conference pape
 
 💬 My favorite quote: "The best time to plant a tree was 20 years ago. The second best time is now."
 
-💵 These are organizations I donate to yearly:
+💵 These are organizations I donate to regularly:
 * [NumFOCUS](https://numfocus.org/donate): This Non-Profit supports many open source projects like Scikit-learn, NumPy, Scipy, Julia etc.
-* [Wikipedia](https://donate.wikimedia.org): Wikipedia is amazing. Where would I be without it.
+* [Wikipedia](https://donate.wikimedia.org): Wikipedia is amazing. Where would I be without it?
+* [Signal](https://signal.org/donate/): The privacy-first alternative to WhatsApp with very little compromises.
+* [OpenReview](https://openreview.net/donate): Keeping reviews and rebuttals visible after paper releases creates trust and context.
