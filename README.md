@@ -2,7 +2,7 @@
 
 I am a research scientist at [VIRDX](https://virdx.com/).
 
-I was a Phd student in physics-based deep learning in the group of [Prof. Thuerey](https://ge.in.tum.de/) at Technical University of Munich, funded by the [Munich Center of Machine Learning (MCML)](https://mcml.ai/). My interests are differentiable numerical simulators, machine learning, automatic differentiation, and optimization theory. 
+I was a Phd student in physics-based deep learning in the group of [Prof. Thuerey](https://ge.in.tum.de/) at Technical University of Munich, funded by the [Munich Center of Machine Learning (MCML)](https://mcml.ai/). My interests are differentiable numerical simulators, machine/deep learning, automatic differentiation, inverse problems, and optimization theory. 
 
 👉 Check out [my website](https://fkoehler.site).
 
